@@ -1,4 +1,4 @@
-# galaxy_planets_app
+# Solar_system
 
 A new Flutter project.
 
