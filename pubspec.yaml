@@ -38,8 +38,7 @@ dependencies:
   provider: ^6.1.2
   shared_preferences: ^2.3.4
   google_fonts: ^4.0.3
-  card_swiper: ^3.0.1
-  circle_list: ^1.0.5
+  
 
 dev_dependencies:
   flutter_test:
