@@ -36,4 +36,4 @@ To run the Solar System Flutter app locally:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/solar_system_flutter.git
+   git clone https://github.com/IamVasuBhurakhaya/solar_system.git
